@@ -1,1 +1,2 @@
-.vuepress/dist/assets
+node_modules/
+.vuepress/dist/

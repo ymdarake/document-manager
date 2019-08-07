@@ -4,7 +4,8 @@
   "description": "- [Applications](./applications/)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vuepress build"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ymdarake/document-manager/issues"
   },
-  "homepage": "https://distracted-montalcini-2dcef8.netlify.com"
+  "homepage": "https://distracted-montalcini-2dcef8.netlify.com",
+  "dependencies": {
+    "vuepress": "^1.0.3"
+  }
 }
