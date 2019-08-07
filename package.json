@@ -1,0 +1,20 @@
+{
+  "name": "vp",
+  "version": "1.0.0",
+  "description": "- [Applications](./applications/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymdarake/document-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymdarake/document-manager/issues"
+  },
+  "homepage": "https://distracted-montalcini-2dcef8.netlify.com"
+}
